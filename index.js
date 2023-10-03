@@ -15,9 +15,6 @@ const itemsSchema = {
 
 const Item = mongoose.model("Item",itemsSchema);
 
-let itemData = [];
-
-
 
 app.get("/", async (req, res) => {
     
