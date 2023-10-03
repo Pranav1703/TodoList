@@ -1,7 +1,10 @@
 # TodoList
 This is a simple Todo List website.
 
-<img width="719" alt="image" src="https://github.com/Pranav1703/TodoList/assets/116703760/7f2e509c-3520-437a-b041-a3ad84922531">
+<img width="719" alt="image" src="https://github.com/Pranav1703/TodoList/assets/116703760/4d4a1ceb-8912-43ae-9c01-e4ff5bb99be3">
+
+
+
 
 
 To use the website, follow these steps:
