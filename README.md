@@ -20,7 +20,7 @@ cd <folder location>
 ```
 now type this command in the terminal
 ```
-nmp i
+npm i
 ```
 to install the required modules
 
