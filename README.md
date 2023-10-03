@@ -1,6 +1,9 @@
 # TodoList
 This is a simple Todo List website.
 
+<img width="719" alt="image" src="https://github.com/Pranav1703/TodoList/assets/116703760/7f2e509c-3520-437a-b041-a3ad84922531">
+
+
 To use the website, follow these steps:
 
 1.Download the zip files by clicking </>code button and extract them
